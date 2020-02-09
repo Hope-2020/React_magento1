@@ -26,7 +26,8 @@ class App extends React.Component {
 
 
   componentDidMount() {
-     }
+     
+  }
 
 
 
@@ -34,7 +35,7 @@ class App extends React.Component {
   render() {
     return (
         <div id="react">
-            <h1>React Component<\h1>
+            <h1>React Component</h1>
             <AddToCartForm productId='null'>
         </div>
     );
